@@ -1,0 +1,10 @@
+# Temporary files
+*~
+*#
+
+# Compiled files and binaries
+*.o
+*.so
+*.x
+*.a
+*.exe
